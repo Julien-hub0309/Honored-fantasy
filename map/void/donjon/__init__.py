@@ -1,0 +1,1 @@
+"""Cathédrale Inversée (void/donjon)."""

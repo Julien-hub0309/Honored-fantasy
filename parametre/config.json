@@ -1,0 +1,58 @@
+{
+  "touches": {
+    "haut": [
+      "z",
+      "w",
+      "up"
+    ],
+    "bas": [
+      "s",
+      "down"
+    ],
+    "gauche": [
+      "q",
+      "a",
+      "left"
+    ],
+    "droite": [
+      "d",
+      "right"
+    ],
+    "valider": [
+      "return",
+      "space",
+      "e"
+    ],
+    "annuler": [
+      "escape",
+      "backspace",
+      "x"
+    ],
+    "menu": [
+      "tab",
+      "m"
+    ],
+    "pouvoir": [
+      "p",
+      "c"
+    ],
+    "courir": [
+      "left shift",
+      "right shift"
+    ],
+    "plein_ecran": [
+      "f11"
+    ]
+  },
+  "graphismes": {
+    "plein_ecran": false,
+    "echelle": 2,
+    "fps_max": 60,
+    "ambiance": true,
+    "scanlines": false
+  },
+  "audio": {
+    "volume": 0.5,
+    "muet": false
+  }
+}

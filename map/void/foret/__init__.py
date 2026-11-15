@@ -1,0 +1,1 @@
+"""Forêt Inversée (void/foret)."""
